@@ -1,0 +1,3 @@
+# samsung1
+
+this is my new file.. which is having the samsung's data...
